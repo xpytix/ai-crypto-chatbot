@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  background-color: #FFBB04;
+  color: #333;
+  font-family: 'Poppins', Arial, sans-serif;
+
+
+}
+/* Import Google Fonts */
+
+/* Globalne style */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', Arial, sans-serif;
+  font-weight: 600;
+  margin: 0;
+}
+
+p, span, button {
+  font-family: 'Poppins', Arial, sans-serif;
+  font-weight: 400;
+}
